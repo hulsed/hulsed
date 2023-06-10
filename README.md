@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I am a @NASA researcher studying the simulation and optimization of systems resilience in the design process.
+I am a [@NASA](https://github.com/nasa) researcher studying the simulation and optimization of systems resilience in the design process.
 
 - 🔭 I'm currently working on [fmdtools](https://github.com/nasa/fmdtools), which is a python library for modelling (and designing, analyzing, optimizing...) system resilience.
 - 👯 I’m looking to collaborate with other researchers and industry with interests in the risk/resilience area.
